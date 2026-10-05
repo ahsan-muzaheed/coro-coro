@@ -1,6 +1,6 @@
 # Coro Coro
 
-A 2D platformer built in Godot 4, with an infinite procedurally generated side-scrolling level.
+A 2D platformer built in Godot 4, with an 2D platformer built for a game jam.
 
 **Play it here:** https://ahsan-muzaheed.github.io/coro-coro/
 
